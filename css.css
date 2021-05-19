@@ -1,0 +1,14 @@
+table,td,th{
+    border: 2px solid black;
+}
+
+table{
+    border-radius:10px;
+}
+
+td,th{
+    border: 2px solid green;
+    border-radius: 5px;
+    font-family: fantasy;         
+            color: rgb(18, 0, 100);
+  }
